@@ -18,7 +18,7 @@ const imageElements = images.map((imageUrl, index) => {
 
 // content setup
 const texts = [
-  ["UNIEURO", "Engenharia de Software | 2020-2024"],
+  ["IESB", "Engenharia de Software | 2020-2024"],
   ["UDEMY \n", "C# .NET full-stack | atual \nAngular full-stack project | Nov - 2019 \nHtml5, Css3, Js, API, NodeJs & React | Abril - 2020"],
   ["D.I.O", "Git & Git-Hub | Jul - 2020"]
 ];
